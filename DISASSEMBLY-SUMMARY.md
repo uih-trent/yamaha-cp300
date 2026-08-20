@@ -38,6 +38,8 @@
 - Bright flashlight / headlamp
 - Phone/camera for photographing every step
 
+https://www.officeworks.com.au/shop/officeworks/p/laser-clean-range-pressurised-air-duster-400ml-lascl1827f?region_id=GTYP4H&cm_mmc=Google%3ASEM%3AAlways_on%3AOW%7CAU+%7CTechnology%7CTechnology%7CNA%7CSEM%7CGoogle%7CPMax%7CNA-OFFTHE270725&s_kwcid=AL%2112073%213%21%21%21%21x%21%21&gclsrc=aw.ds&gad_source=1&gad_campaignid=19856019778&gclid=CjwKCAjwy5rUBhB5EiwAIoAtCo4VGRxeWFRSaTaQ99lvz-9S-TGCoVWhbTE9HAE2Vnf9JrnA0B--AhoC0mMQAvD_BwE&regionIdSet=true
+
 **Cleaning**
 - Residue-free electronics contact cleaner (e.g. DeoxIT, CRC QD, or equivalent)
 - 99% isopropyl alcohol (IPA)

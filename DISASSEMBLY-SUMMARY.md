@@ -4,16 +4,9 @@
 **Repo**: uih-trent/yamaha-cp300  
 **Date**: 2026-08-21
 
-> **IMPORTANT DISCLAIMER**  
-> This is an unofficial personal summary only.  
-> The official Service Manual is copyrighted by Yamaha Corporation and is intended for authorized service personnel.  
-> Yamaha’s Owner’s Manual states there are **no user-serviceable parts**.  
-> Performing this work may void any remaining warranty, risk permanent damage, electric shock, or injury.  
-> Proceed entirely at your own risk. If you are not experienced with electronics disassembly, take the instrument to a qualified technician.
-
 ---
 
-## Official Documentation (Download yourself – keep private)
+## Official Documentation 
 
 - **Owner’s Manual (free, official)**  
   https://usa.yamaha.com/files/download/other_assets/7/334187/cp300_en_om_c0.pdf
